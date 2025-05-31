@@ -16,7 +16,7 @@ timezone:
 
 title: Paw # the main title
 
-tagline: CTFer, beginner PWNer, Web  # it will display as the subtitle
+tagline: CTFer, beginner PWNer, Web, vibe coder # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
