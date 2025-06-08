@@ -62,6 +62,7 @@ int main(void) {
     return 0;
 }
 ```
+This challenge was purposed in 404CTF 2025
 > In this challenge the source code was given
 
 
