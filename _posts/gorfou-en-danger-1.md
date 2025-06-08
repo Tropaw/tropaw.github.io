@@ -1,5 +1,4 @@
 ---
-
 layout: post
 title: LazyNano
 date: 06/06/2025
@@ -7,7 +6,6 @@ categories: [ctf, pwn]
 tag: [pwn, ctf]
 author: Paw
 description: ret2win
-
 ---
 
 
