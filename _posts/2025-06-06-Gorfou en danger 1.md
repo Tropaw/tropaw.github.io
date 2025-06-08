@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LazyNano
+title: Gorfou en danger 1
 date: 06/06/2025
 categories: [ctf, pwn]
 tag: [pwn, ctf]
