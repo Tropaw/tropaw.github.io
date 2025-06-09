@@ -14,4 +14,4 @@ JSFuck is an esoteric and educational programming style based on the atomic part
 
 You can use it if some characters are filtered. It can be used with eval, script ... Everything who can load js.
 
-![image](./image.png)
+![image](../assets/EvadingFilters/image.png)
