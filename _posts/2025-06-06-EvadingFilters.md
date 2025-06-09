@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bypass XSS filters 
-date: 06/06/2025
+date: 09/06/2025
 categories: [ctf, web]
 tag: [web, ctf, XSS, bypass]
 author: Paw
