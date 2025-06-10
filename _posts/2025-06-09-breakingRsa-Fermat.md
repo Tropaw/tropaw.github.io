@@ -5,7 +5,7 @@ date: 09/06/2025
 categories: [ctf]
 tag: [Crypto, ctf]
 author: Paw
-description: A tutorial for some challenge in some plateforms x)
+description: You will understand how Fermat algorithm works x)
 ---
 
 
