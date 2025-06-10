@@ -6,7 +6,7 @@ categories: [ctf, web]
 tag: [web, ctf, XSS, bypass]
 author: Paw
 description: How you can evade filters with JSfxck for XSS
-image: ../assets/EvadingFilters/image.png
+image: assets/EvadingFilters/jsfxck.png
 ---
 
 # What's JSfuck ? 
