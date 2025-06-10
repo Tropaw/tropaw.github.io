@@ -2,8 +2,8 @@
 layout: post
 title: Breaking RSA with fermat method
 date: 10/06/2025
-categories: [ctf]
-tag: [Crypto, ctf]
+categories: [ctf, crypto]
+tag: [Crypto, ctf, algorithm]
 author: Paw
 description: You will understand how Fermat algorithm works x)
 ---
