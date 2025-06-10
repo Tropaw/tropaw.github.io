@@ -30,7 +30,9 @@ where:
     To find how many prime numbers there are between 1 and n we will use φ(n)
 
 
-$$\varphi(n) = (p-1)(q-1)$$
+$$
+\varphi(n) = (p-1)(q-1)
+$$
 
     The private key equals to "d", to find d we will use the equation:
 
@@ -50,6 +52,7 @@ Sooo, we want to find N, and you can do it very easly:
 $$
 b^2 = a^2 - N 
 $$
+
 > equals to N = a² - b² 
 
 
