@@ -9,12 +9,12 @@ description: A tutorial for some challenge in some plateforms x)
 ---
 
 
-# What's RSA ? 
+## What's RSA ? 
 
 RSA in an asymmetric cryptographic algorithm that relies on the practical difficulty of factoring the product of two large prime numbers. A challenge using the "factoring problem", among the known methods to solve it is the famous Fermat algorithm, which we will discuss later in this topic.
 
 ---
- ### But how it works ?
+ ## But how it works ?
 
 In RSA, we use a pair of keys: one public and one private.
 The public key is composed of the tuple (e, n).
