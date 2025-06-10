@@ -5,7 +5,6 @@ date: 06/06/2025
 categories: [ctf, pwn]
 tag: [pwn, ctf]
 author: Paw
-description: wu for the gorfou en danger 1 in 404CTF
 ---
 
 
