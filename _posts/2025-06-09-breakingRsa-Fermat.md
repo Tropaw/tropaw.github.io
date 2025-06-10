@@ -6,6 +6,7 @@ categories: [ctf, crypto]
 tag: [Crypto, ctf, algorithm]
 author: Paw
 description: You will understand how Fermat algorithm works x)
+image: /assets/fermat/fermat.jpeg
 ---
 
 
