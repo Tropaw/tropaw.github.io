@@ -6,7 +6,7 @@ categories: [ctf, web]
 tag: [web, ctf, XSS, bypass]
 author: Paw
 description: How you can evade filters with JSfxck for XSS
-image: ../assets/EvadingFilters/jsfxck.png
+image: /assets/EvadingFilters/jsfxck.png
 ---
 
 # What's JSfuck ? 
@@ -15,4 +15,4 @@ JSFuck is an esoteric and educational programming style based on the atomic part
 
 You can use it if some characters are filtered. It can be used with eval, script ... Everything that can load js.
 
-![image](../assets/EvadingFilters/jsfxck.png)
+![image](/assets/EvadingFilters/jsfxck.png)
