@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Breaking RSA with fermat method
-date: 06/06/2025
+date: 09/06/2025
 categories: [ctf]
 tag: [Crypto, ctf]
 author: Paw
