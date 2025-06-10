@@ -10,6 +10,8 @@ description: You will understand how Fermat algorithm works x)
 
 ![image](/assets/fermat/fermat.jpeg)
 > This is Pierre Fermat btw
+
+
 ## What's RSA ? 
 
 RSA in an asymmetric cryptographic algorithm that relies on the practical difficulty of factoring the product of two large prime numbers. A challenge using the "factoring problem", among the known methods to solve it is the famous Fermat algorithm, which we will discuss later in this topic.
