@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gorfou en danger 2
-date: 11/06/2025
+date: 10/06/2025
 categories: [ctf, pwn]
 tag: [pwn, ctf]
 author: Paw
