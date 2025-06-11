@@ -5,4 +5,5 @@ order: 4
 ---
 
 Just a 17-year-old with a passion for computers, Web and Pwn enjoyer.
-You can contact me by discord : wapoof.
+
+> discord : wapoof 
