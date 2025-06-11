@@ -98,10 +98,10 @@ theme_mode: #[light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.explicit.bing.net%2Fth%2Fid%2FOIP.o_kccuyyOrL5vwLJqvD9wQAAAA%3Fcb%3Diwc2%26pid%3DApi&f=1&ipt=227687dc4e255152f8d2c27036bc84db2e24df47edc49b558ee6a8717c0bebb5&ipo=images
+avatar: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.tC2K63O_WF9KlUTyttnnOQHaHa%26pid%3DApi&f=1&ipt=bf7f2ce7d3bd12b2252fe6db98dd8645859317575e5b4b6e89f276222941ea47&ipo=images
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.explicit.bing.net%2Fth%2Fid%2FOIP.o_kccuyyOrL5vwLJqvD9wQAAAA%3Fcb%3Diwc2%26pid%3DApi&f=1&ipt=227687dc4e255152f8d2c27036bc84db2e24df47edc49b558ee6a8717c0bebb5&ipo=images
+social_preview_image: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ZW0S8ATdIPVuXbMsgUdIpAHaEK%26pid%3DApi&f=1&ipt=c7459b55639fabc37f0b60c2808875ce9d8faaa1cfad25dcdb9978d340734c06&ipo=images
 
 # boolean type, the global switch for TOC in posts.
 toc: true
