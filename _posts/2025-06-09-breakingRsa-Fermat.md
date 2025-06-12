@@ -30,9 +30,9 @@ where:
     To find how many prime numbers there are between 1 and n we will use φ(n)
 
 
-$$
-\varphi(n) = (p-1)(q-1)
-$$
+
+>phi_n = (p-1)(q-1)
+
 
     The private key equals to "d", to find d we will use the equation:
 
@@ -49,9 +49,7 @@ To use it the 2 larges prime numbers have to be close to each others.
 
 Sooo, we want to find N, and you can do it very easly:
 
-$$
-b^2 = a^2 - N 
-$$
+>b² = a² - n
 
 > equals to N = a² - b² 
 
