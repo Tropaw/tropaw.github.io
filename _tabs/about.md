@@ -4,5 +4,5 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Just a self-taught computer enthusiast.( not windows )
-> discord : wapoof 
+Just a self-taught security enthusiast.
+> discord : tropaw 
