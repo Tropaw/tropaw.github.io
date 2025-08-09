@@ -16,7 +16,7 @@ timezone:
 
 title: Paw # the main title
 
-tagline: CTF, Cybersecurity & Code blog # it will display as the subtitle
+tagline: CTF, Cybersecurity blog # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
  A blog to talk about tech
