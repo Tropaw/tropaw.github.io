@@ -19,7 +19,7 @@ const space_grotesk = Space_Grotesk({
 })
 
 export const metadata: Metadata = {
-  metadataBase: new URL(siteMetadata.siteUrl || 'https://pawo.me') ,
+  metadataBase: new URL(siteMetadata.siteUrl || "https://pawo.me"),
   title: {
     default: siteMetadata.title,
     template: `%s | ${siteMetadata.title}`,
