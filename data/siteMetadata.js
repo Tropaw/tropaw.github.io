@@ -9,7 +9,7 @@ const siteMetadata = {
   siteUrl: 'https://pawo.me',
   siteRepo: 'https://github.com/tropaw/tropaw.github.io',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/lll.png`,
-  socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
+  socialBanner: `${process.env.BASE_PATH || ''}/static/images/lll.png`,
   locale: 'en-US',
   // set to true if you want a navbar fixed to the top
   stickyNav: false,
